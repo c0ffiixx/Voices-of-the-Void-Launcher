@@ -1,4 +1,4 @@
-# Voices of the Void Launcher (DEPRECATED)
+# Voices of the Void Launcher (ARCHIVE) (OLD & DEPRECATED)
 A specialised launcher used for launching the game Voices of the Void (https://mrdrnose.itch.io/votv)
 
 I am not experienced at all, I am new to programming especially in Python. If the launchers cause any problems please reach out to me and/or commit a fix to the project. Thank you for understanding.
